@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "eslint": "",
+    "eslint-config-standard": "",
+    "eslint-plugin-import": "",
+    "eslint-plugin-n": "^",
+    "eslint-plugin-promise": "",
+    "utools-api-types": "",
+    "prettier": "",
+    "eslint-config-prettier": "",
+    "eslint-plugin-prettier": ""
+  }
+}
